@@ -1,20 +1,20 @@
 {
   "name": "hugo-mod-json-resume",
   "version": "1.0.0",
-  "description": "Hugo shortcodes to add structured JSON Resume data to your Hugo site.",
+  "description": "This is a fork from schnerring. It just fixs the module URL & the author name.",
   "author": {
-    "name": "Michael Schnerring",
-    "email": "3743342+schnerring@users.noreply.github.com",
-    "url": "https://schnerring.net"
+    "name": "dilddream",
+    "email": "dilddream31@gmail.com",
+    "url": "https://dilddream.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/schnerring/hugo-mod-json-resume#readme",
+  "homepage": "https://github.com/dilddream/hugo-mod-json-resume#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schnerring/hugo-mod-json-resume.git"
+    "url": "git+https://github.com/dilddream/hugo-mod-json-resume.git"
   },
   "bugs": {
-    "url": "https://github.com/schnerring/hugo-mod-json-resume/issues"
+    "url": "https://github.com/dilddream/hugo-mod-json-resume/issues"
   },
   "keywords": ["hugo", "json-resume"],
   "scripts": {

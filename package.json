@@ -1,11 +1,11 @@
 {
   "author": {
-    "email": "3743342+schnerring@users.noreply.github.com",
-    "name": "Michael Schnerring",
-    "url": "https://schnerring.net"
+    "email": "dilddream31@gmail.com",
+    "name": "dilddream",
+    "url": "https://dilddream.com"
   },
   "bugs": {
-    "url": "https://github.com/schnerring/hugo-mod-json-resume/issues"
+    "url": "https://github.com/dilddream/hugo-mod-json-resume/issues"
   },
   "comments": {
     "dependencies": {
@@ -22,7 +22,7 @@
   "dependencies": {
     "simple-icons": "^14.14.0"
   },
-  "description": "Hugo shortcodes to add structured JSON Resume data to your Hugo site.",
+  "description": "This is a fork from schnerring. It just fixs the module URL & the author name.",
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^15.5.2",
@@ -30,7 +30,7 @@
     "prettier": "^3.5.3",
     "prettier-plugin-go-template": "^0.0.15"
   },
-  "homepage": "https://github.com/schnerring/hugo-mod-json-resume#readme",
+  "homepage": "https://github.com/dilddream/hugo-mod-json-resume#readme",
   "keywords": [
     "hugo",
     "json-resume"
@@ -42,7 +42,7 @@
   "name": "hugo-mod-json-resume",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schnerring/hugo-mod-json-resume.git"
+    "url": "git+https://github.com/dilddream/hugo-mod-json-resume.git"
   },
   "scripts": {
     "lint": "npm run lint:css && npm run lint:js && npm run lint:md",
